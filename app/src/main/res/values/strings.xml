@@ -1,0 +1,11 @@
+<resources>
+    <string  name="app_name">Amicable</string>
+    <string name="title_activity_mensagem">MensagemActivity</string>
+    <string-array name="mensagens">
+        <item>Anthony</item>
+        <item>Benedict</item>
+        <item>Colin</item>
+        <item>Daphne</item>
+        <item>Eloise</item>
+    </string-array>
+</resources>
